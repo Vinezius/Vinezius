@@ -1,7 +1,5 @@
-📝 Estudante de Análise e Desenvolvimento de Sistemas pela UTFPR Ponta Grossa. Atualmente no quarto período.
+📝 Estudante de Análise e Desenvolvimento de Sistemas pela UTFPR Ponta Grossa. Atualmente no quinto período.
 
-📖 Estudando C# e .NET.
-
-🧠 Conhecimentos em Java, C, SQL, Banco de dados Relacionais, HTML, CSS, Docker, JS, PHP, Laravel e Ionic.
+🧠 Conhecimentos em Java, C, SQL, Banco de dados Relacionais, HTML, CSS, Docker, JS, PHP, Laravel, Ionic e Python.
 
 Linkedin: https://www.linkedin.com/in/vinicius-s-alves/
