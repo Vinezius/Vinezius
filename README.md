@@ -4,7 +4,7 @@ import Desenvolvedor from 'Vinezius';
 const sobreMim = {
   nome      : 'Vinícius de Souza Alves',
   area      : 'Frontend',
-  trabalho  : 'Framework Tecnologia',
+  trabalho  : 'Framework Digital',
   idade     : 21
 }
 
