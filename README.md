@@ -16,7 +16,8 @@ const skills = {
 }
 
 const estudando = {
-  frameworks = ['Next.js']
+  frameworks : ['Next.js'],
+  linguagens : ['Typescript']
 }
 
 ```
