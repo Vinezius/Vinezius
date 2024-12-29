@@ -9,7 +9,7 @@ const sobreMim = {
 }
 
 const skills = {
-  linguagens    : ['Javascript', 'Java', 'PHP', 'C'],
+  linguagens    : ['Javascript', 'Java', 'PHP', 'C', 'Typescript'],
   bibliotecas   : ['ReactJS'],
   frameworks    : ['Laravel', 'Ionic'],
   bancoDeDados  : ['PostgreSQL', 'SQL Server', 'MySQL'] 
@@ -17,7 +17,7 @@ const skills = {
 
 const estudando = {
   frameworks : ['Next.js'],
-  linguagens : ['Typescript']
+  linguagens : undefined
 }
 
 ```
